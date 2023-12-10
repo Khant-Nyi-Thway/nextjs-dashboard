@@ -44,3 +44,7 @@ Next, in your package.json file, add the following line to your scripts:
   "start": "next start",
   "seed": "node -r dotenv/config ./scripts/seed.js"
 },
+
+
+user@nextmail.com
+123456
